@@ -10,7 +10,7 @@ description: Links to relevant websites
 
 <div class="level">
     <div class="column">
-        <a class="button is-fullwidth" href="https://discord.gg/kQ9z8bY">
+        <a class="button is-fullwidth" href="https://discord.gg/vuHWtcN">
             <span class="icon">
               <img src="{{ "/assets/images/discord.svg" | relative_url }}" class="image is-24x24" alt="Discord" width="24" height="24" style="margin-right: 20px">
             </span>
